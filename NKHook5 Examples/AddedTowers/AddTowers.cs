@@ -24,7 +24,7 @@ namespace AddedTowers
             //This would also be the tower's TypeName & FactoryName for the tower file and selection menu
             //In the future this will be able to access files like DRIP.bloon too, so better not have name conflicts!
             Patch.injectFlag("DRIP");
-            Patch.injectFlag("0001");
+            Patch.injectFlag("Flme");
             Patch.injectFlag("0002");
             Patch.injectFlag("Funk");
         }
